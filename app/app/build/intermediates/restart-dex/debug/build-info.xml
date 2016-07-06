@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="1282589180419"
+    token="-8450214753639425216"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="189" />
+    <task
+        name="instant-run-dex"
+        duration="226" />
+    <task
+        name="instant-run-transform"
+        duration="32" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="D:\Users\ychathun\Documents\GitHub\MusicApp\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="1033772638500" >
+        <artifact
+            location="D:\Users\ychathun\Documents\GitHub\MusicApp\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1282589180419"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\Users\ychathun\Documents\GitHub\MusicApp\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
